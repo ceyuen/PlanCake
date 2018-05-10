@@ -30,7 +30,7 @@ export default class LoggedInView extends Component {
       this.setState({
         createEventError: 'Please insert an event location.'
       })
-    }else {
+    } else {
       axios.post('/api/createEvent', {
         createEventTitle: this.state.createEventTitle,
         createEventLocation: this.state.createEventLocation

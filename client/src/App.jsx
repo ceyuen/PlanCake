@@ -44,6 +44,7 @@ export default class App extends Component {
             <LoggedInView userData={this.state.userData} /> 
             )}} 
           />
+          {/* <Route component={NoMatch} /> No match would be 404 component*/} 
         </Switch>
         <Link to="/loggedinview">dashboard</Link>
         <ContactInfo />
