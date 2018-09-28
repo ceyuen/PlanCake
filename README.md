@@ -5,7 +5,7 @@
 
 - __Product Owner__: [Christina Yuen](https://github.com/ceyuen)
 - __Scrum Master__: [William Ha](https://github.com/wvha)
-- __Development Team Members__: [Brandon Villiados](https://github.com/Brandon-Villiados), 
+- __Development Team Members__: [Brandon Villiados](https://github.com/Brandon-Villiados)
 
 ## Table of Contents
 
